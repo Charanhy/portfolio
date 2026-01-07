@@ -162,8 +162,9 @@ const Home = () => {
   }, [handleTyping]);
 
   // Lottie configuration
+  // Lottie configuration for coding animation
   const lottieOptions = {
-    src: "https://lottie.host/58753882-bb6a-49f5-a2c0-950eda1e135a/NLbpVqGegK.lottie",
+    src: "https://lottie.host/7d5b3526-f6f5-4b00-8acb-7c15cb87f3f4/VwkOIqQokv.lottie",
     loop: true,
     autoplay: true,
     rendererSettings: {
